@@ -1,0 +1,8 @@
+.Head {
+  background-image: url(C:\Users\Robin\rick-and-morty\src\img\Logo.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 20vh;
+  position: relative;
+  z-index: 1;
+}
