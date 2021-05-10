@@ -25,6 +25,7 @@ function RickGallery() {
               <li>
                 <h3>{character.name}</h3>
                 <img src={character.image} alt='' />
+                <p>{character.species}</p>
               </li>
             );
           })}
